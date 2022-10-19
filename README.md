@@ -18,8 +18,8 @@ npm run dev
 ```
 
 # Usuario de prueba para Login
-
+```
 Usuario: xcaret@example.com
 Contraseña: 12345678@
-
+```
 
