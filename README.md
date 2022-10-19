@@ -2,10 +2,24 @@
 
 # Instalación
 
-Ejecutar en terminal pocisionado en la carpeta del proyecto:
+Ejecutar en terminal en la carpeta del proyecto:
 
-´´bash
+```
 yarn install
-´´
+```
+
+# Iniciar Servidor
+```
+yarn dev
+
+#or
+
+npm run dev
+```
+
+# Usuario de prueba para Login
+
+Usuario: xcaret@example.com
+Contraseña: 12345678@
 
 
